@@ -1,0 +1,17 @@
+in.xpartile.swed.swed.app-browser-1.4.0-0 C:\Users\dj002\.gradle\caches\transforms-3\09b95f28c60ee270a0658fbd8aba95bd\transformed\browser-1.4.0\res
+in.xpartile.swed.swed.app-core-1.6.0-1 C:\Users\dj002\.gradle\caches\transforms-3\200a576eda084a09550ebc2ea22cb4a5\transformed\core-1.6.0\res
+in.xpartile.swed.swed.app-jetified-annotation-experimental-1.1.0-2 C:\Users\dj002\.gradle\caches\transforms-3\25d10a17dc8ad1a5b3e7a462dcbe183e\transformed\jetified-annotation-experimental-1.1.0\res
+in.xpartile.swed.swed.app-jetified-window-java-1.0.0-beta04-3 C:\Users\dj002\.gradle\caches\transforms-3\4b3a5ba95f21a06952d568097b3e5266\transformed\jetified-window-java-1.0.0-beta04\res
+in.xpartile.swed.swed.app-jetified-window-1.0.0-beta04-4 C:\Users\dj002\.gradle\caches\transforms-3\4b5a18471ec833030c46d3531975dc92\transformed\jetified-window-1.0.0-beta04\res
+in.xpartile.swed.swed.app-jetified-play-services-base-18.0.1-5 C:\Users\dj002\.gradle\caches\transforms-3\8d3e85cec5aae4faad5f9d1a9c9c4220\transformed\jetified-play-services-base-18.0.1\res
+in.xpartile.swed.swed.app-jetified-firebase-common-20.4.2-6 C:\Users\dj002\.gradle\caches\transforms-3\c78e562d5b8d4841190220ced47a9d20\transformed\jetified-firebase-common-20.4.2\res
+in.xpartile.swed.swed.app-jetified-play-services-basement-18.1.0-7 C:\Users\dj002\.gradle\caches\transforms-3\f796015160c119ae54b583dbc48730ad\transformed\jetified-play-services-basement-18.1.0\res
+in.xpartile.swed.swed.app-packaged_res-8 C:\Users\dj002\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.0\android\build\intermediates\packaged_res\debug
+in.xpartile.swed.swed.app-pngs-9 E:\android\androidProject\Flutter\swed\android\app\build\generated\res\pngs\debug
+in.xpartile.swed.swed.app-resValues-10 E:\android\androidProject\Flutter\swed\android\app\build\generated\res\resValues\debug
+in.xpartile.swed.swed.app-rs-11 E:\android\androidProject\Flutter\swed\android\app\build\generated\res\rs\debug
+in.xpartile.swed.swed.app-mergeDebugResources-12 E:\android\androidProject\Flutter\swed\android\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+in.xpartile.swed.swed.app-mergeDebugResources-13 E:\android\androidProject\Flutter\swed\android\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+in.xpartile.swed.swed.app-merged_res-14 E:\android\androidProject\Flutter\swed\android\app\build\intermediates\merged_res\debug
+in.xpartile.swed.swed.app-debug-15 E:\android\androidProject\Flutter\swed\android\app\src\debug\res
+in.xpartile.swed.swed.app-main-16 E:\android\androidProject\Flutter\swed\android\app\src\main\res
